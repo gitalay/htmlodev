@@ -43,3 +43,6 @@
     (Ozellikle Güney ABD ve Ortabatı ABD'de konusma dilinde) 
     <br>
     Kötü gitmek; ahlaksızlığa veya suça yönelmek.</p>
+
+    
+    <h3>Patika.dev profil linkim: https://app.patika.dev/gunestalay </h3>
