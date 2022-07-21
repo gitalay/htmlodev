@@ -16,7 +16,6 @@
             <li>The Shawshank Redemption</li>
         </ul>
     </li>
-
     <li>
         Diziler<ul style="list-style-type: georgian">
             <li><a href="https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_1" target="_blank">Breaking Bad</a></li>
@@ -24,7 +23,6 @@
             <li>Better Call Saul</li>
         </ul>
     </li>
-
     <li>
         Kitaplar
         <ul style="list-style-type: disc; ">
