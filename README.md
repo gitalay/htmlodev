@@ -45,4 +45,4 @@
     Kötü gitmek; ahlaksızlığa veya suça yönelmek.</p>
 
     
-    <h3>Patika.dev profil linkim: https://app.patika.dev/gunestalay </h3>
+    Patika.dev profil linkim: https://app.patika.dev/gunestalay
